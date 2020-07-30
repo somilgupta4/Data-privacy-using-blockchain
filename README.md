@@ -1,5 +1,5 @@
 
-#Data-privacy-using-blockchain
+# Data-privacy-using-blockchain
 
 This project uses blockchain technology to store the data of users that they want to store. This project also verifies the user from his/her mobile number and an OTP will be sent to the user for verification purpose. Until the OTP is not verified the program will not move forward to the data storage and viewing part. The mobile number that has been verified, only that number'sinformation will be stored and viewed. This feature ensures that no other person can view someone else's information without prior consent.
 
